@@ -1,6 +1,4 @@
 # Spark
-This notebook will serve as reference code for the Big Data section of the course involving Amazon Web Services. 
-
 First we create a SparkContext. A SparkContext represents the connection to a Spark cluster, and can be used to create an RDD and broadcast variables on that cluster.
 
 *Note! You can only have one SparkContext at a time the way we are running things here.*
